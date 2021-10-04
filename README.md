@@ -1,5 +1,5 @@
 # Boas vindas ao repositório do projeto Aggregations!
-No bloco finalizado com esse projeto, dei proceguimento ao meu apendizado de MongoDB. Nesse bloco, pude aprender ferramentas como o aggregation frammework. Tal conhecimento me permitiu utilizar vários tipos de operações no mongo como criar diferentes tipos de projeções para as informações contidas em um documento e também fazer projeções usando dados correlacionados de documentos de diferentes coleções.
+No bloco finalizado com esse projeto, dei proceguimento ao meu apendizado de MongoDB. Nesse bloco, pude aprender ferramentas como o aggregation frammework. Tal conhecimento, me permitiu utilizar vários tipos de operações no mongo, como criar diferentes tipos de projeções para as informações contidas em um documento e também fazer projeções usando dados correlacionados de documentos de diferentes coleções.
 
 Esse projeto teve como objetivo, desenvolver uma série de queries para executar ações no banco de dados **aggregations** que contém várias coleções.
 As principais ações executadas e lições aprendidas, encontram-se descritas nos tópico abaixos. 
