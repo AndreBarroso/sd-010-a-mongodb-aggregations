@@ -49,7 +49,7 @@ cd sd-010-a-mongodb-aggregations
 npm install;
 ```
 
-6. Na raiz do diretório do projeto, execute o seguinte comando que fará a restauração da base de dados `commerce`:
+6. Na raiz do diretório do projeto, execute o seguinte comando que fará a restauração da base de dados `aggregations`:
     ```sh
     DBNAME=aggregations ./scripts/resetdb.sh assets
     ```
